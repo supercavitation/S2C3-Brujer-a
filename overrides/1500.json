@@ -1,0 +1,224 @@
+[
+  {
+    "speciesId": "ampharos",
+    "fastMove": "VOLT_SWITCH",
+    "chargedMoves": ["BRUTAL_SWING","POWER_GEM"],
+    "weight": 3
+  },
+  {
+    "speciesId": "ariados",
+    "chargedMoves": ["SHADOW_SNEAK", "LUNGE"],
+    "weight": 1
+  },
+  {
+    "speciesId": "beedrill",
+    "chargedMoves": ["X_SCISSOR","DRILL_RUN"],
+    "weight": 1
+  },
+  {
+    "speciesId": "dartrix",
+    "weight": 11
+  },
+  {
+    "speciesId": "decidueye",
+    "chargedMoves": ["FRENZY_PLANT", "SPIRIT_SHACKLE"],
+    "weight": 4
+  },
+  {
+    "speciesId": "dedenne",
+    "fastMove": "THUNDER_SHOCK",
+    "chargedMoves": ["PARABOLIC_CHARGE","PLAY_ROUGH"],
+    "weight": 1
+  },
+  {
+    "speciesId": "delphox",
+    "chargedMoves": ["PSYSHOCK","BLAST_BURN"],
+    "weight": 6
+  },
+  {
+    "speciesId": "eelektrik",
+    "weight": 3
+  },
+  {
+    "speciesId": "eelektross",
+    "fastMove": "ACID",
+    "chargedMoves": ["CRUNCH","THUNDERBOLT"],
+    "weight": 1
+  },
+  {
+    "speciesId": "electivire",
+    "chargedMoves": ["ICE_PUNCH","WILD_CHARGE"],
+    "weight": 1
+  },
+  {
+    "speciesId": "electrode",
+    "weight": 3
+  },
+  {
+    "speciesId": "emolga",
+    "fastMove": "THUNDER_SHOCK",
+    "chargedMoves": ["ACROBATICS","DISCHARGE"],
+    "weight": 10
+  },
+  {
+    "speciesId": "galvantula",
+    "fastMove": "FURY_CUTTER",
+    "chargedMoves": ["CROSS_POISON","LUNGE"],
+    "weight": 1
+  },
+  {
+  	"speciesId": "gengar",
+  	"chargedMoves": ["SHADOW_PUNCH","SHADOW_BALL"],
+  	"weight": 8
+  },
+  {
+    "speciesId": "girafarig",
+    "weight": 4
+  },
+  {
+    "speciesId": "golisopod",
+    "fastMove": "SHADOW_CLAW",
+    "weight": 4
+  },
+  {
+    "speciesId": "grimer",
+    "fastMove": "POISON_JAB",
+    "weight": 1
+  },
+  {
+    "speciesId": "grumpig",
+    "weight": 7
+  },
+  {
+    "speciesId": "hatterene",
+    "fastMove": "PSYCHO_CUT",
+    "chargedMoves": ["POWER_WHIP","DAZZLING_GLEAM"],
+    "weight": 1
+  },
+  {
+    "speciesId": "haunter",
+    "fastMove": "SHADOW_CLAW",
+    "chargedMoves": ["SHADOW_PUNCH","ICE_PUNCH"],
+    "weight": 7
+  },
+  {
+    "speciesId": "hypno",
+    "chargedMoves": ["SHADOW_BALL","PSYSHOCK"],
+    "weight": 20
+  },
+  {
+    "speciesId": "koffing",
+    "fastMove": "TACKLE",
+    "weight": 1
+  },
+  {
+    "speciesId": "ludicolo",
+    "weight": 3
+  },
+  {
+    "speciesId": "luxray",
+    "fastMove": "SPARK",
+    "chargedMoves": ["CRUNCH","PSYCHIC_FANGS"],
+    "weight": 1
+  },
+  {
+    "speciesId": "mew",
+    "fastMove": "SHADOW_CLAW",
+    "chargedMoves": ["DARK_PULSE", "PSYSHOCK"],
+    "weight": 1
+  },
+  {
+    "speciesId": "minun",
+    "chargedMoves": ["THUNDERBOLT","GRASS_KNOT"],
+    "weight": 1
+  },
+  {
+    "speciesId": "muk",
+    "fastMove": "POISON_JAB",
+    "weight": 3
+  },
+  {
+    "speciesId": "orbeetle",
+    "fastMove": "PSYCHO_CUT",
+    "chargedMoves": ["PSYSHOCK","BUG_BUZZ"],
+    "weight": 7
+  },
+  {
+    "speciesId": "pawmot",
+    "weight": 1
+  },
+  {
+    "speciesId": "plusle",
+    "chargedMoves": ["THUNDERBOLT","GRASS_KNOT"],
+    "weight": 1
+  },
+  {
+    "speciesId": "raichu",
+    "fastMove": "VOLT_SWITCH",
+    "chargedMoves": ["WILD_CHARGE","BRICK_BREAK"],
+    "weight": 1
+  },
+  {
+    "speciesId": "raichu_alolan",
+    "fastMove": "THUNDER_SHOCK",
+    "chargedMoves": ["WILD_CHARGE","PSYSHOCK"],
+    "weight": 1
+  },
+  {
+    "speciesId": "rapidash_galarian",
+    "fastMove": "PSYCHO_CUT",
+    "chargedMoves": ["BODY_SLAM","MEGAHORN"],
+    "weight": 1
+  },
+  {
+    "speciesId": "regieleki",
+    "fastMove": "LOCK_ON",
+    "chargedMoves": ["THUNDER","HYPER_BEAM"],
+    "weight": 1
+  },
+  {
+    "speciesId": "scolipede",
+    "fastMove": "BUG_BITE",
+    "weight": 1
+  },
+  {
+    "speciesId": "scyther",
+    "weight": 4
+  },
+  {
+    "speciesId": "tentacruel",
+    "chargedMoves": ["SCALD","PAYBACK"],
+    "weight": 3
+  },
+  {
+    "speciesId": "trevenant",
+    "weight": 8
+  },
+  {
+    "speciesId": "tropius",
+    "weight": 5
+  },
+  {
+    "speciesId": "venomoth",
+    "fastMove": "PSYWAVE",
+    "weight": 1
+  },
+  {
+    "speciesId": "weezing",
+    "fastMove": "ROLLOUT",
+    "weight": 1
+  },
+  {
+    "speciesId": "weezing_galarian",
+    "weight": 3
+  },
+  {
+    "speciesId": "xatu",
+    "weight": 2
+  },
+  {
+    "speciesId": "zebstrika",
+    "chargedMoves": ["WILD_CHARGE","FLAME_CHARGE"],
+    "weight": 1
+  }
+]
