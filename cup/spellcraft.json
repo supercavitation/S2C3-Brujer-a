@@ -1,6 +1,6 @@
 {
-    "name": "brujeria",
-    "title": "Brujería Cup",
+    "name": "spellcraft",
+    "title": "Spellcraft Cup",
 	"include": [{
         "filterType": "type",
         "values": ["bug","electric","grass","poison","psychic"]

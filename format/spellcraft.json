@@ -1,8 +1,8 @@
 {
-	"title": "Brujería Cup",
-	"cup": "brujeria",
+	"title": "Spellcraft Cup",
+	"cup": "spellcraft",
 	"cp": 1500,
-	"meta": "brujeria",
+	"meta": "spellcraft",
 	"showCup": true,
 	"showFormat": true,
 	"showMeta": true
