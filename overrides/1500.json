@@ -52,6 +52,7 @@
   },
   {
     "speciesId": "electrode",
+    "chargedMoves": ["FOUL_PLAY","HYPER_BEAM"],
     "weight": 3
   },
   {
@@ -131,6 +132,10 @@
     "speciesId": "minun",
     "chargedMoves": ["THUNDERBOLT","GRASS_KNOT"],
     "weight": 1
+  },
+  {
+    "speciesId": "mismagius",
+    "weight": 1 
   },
   {
     "speciesId": "muk",
